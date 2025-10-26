@@ -1,0 +1,123 @@
+final List<Map<String, dynamic>> movies = [
+  {
+    "id": 1,
+    "title_name":
+        "Satan's Sword 3: The Final Chapter (Daibosatsu toge: Kanketsu-hen)",
+    "Genres": "Action|Drama",
+    "image": "http://dummyimage.com/162x120.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 2,
+    "title_name": "Age of Innocence, The",
+    "Genres": "Drama|Romance",
+    "image": "http://dummyimage.com/127x212.png/ff4444/ffffff",
+  },
+  {
+    "id": 3,
+    "title_name": "Babylon",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/167x172.png/ff4444/ffffff",
+  },
+  {
+    "id": 4,
+    "title_name": "Loverboy",
+    "Genres": "Comedy",
+    "image": "http://dummyimage.com/244x162.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 5,
+    "title_name": "Shall We Kiss? (Un baiser s'il vous plait)",
+    "Genres": "Comedy|Romance",
+    "image": "http://dummyimage.com/189x149.png/dddddd/000000",
+  },
+  {
+    "id": 6,
+    "title_name": "Do Not Disturb",
+    "Genres": "Comedy",
+    "image": "http://dummyimage.com/108x130.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 7,
+    "title_name": "Shinobi No Mono 3: Resurrection (Shin shinobi no mono)",
+    "Genres": "Action|Drama",
+    "image": "http://dummyimage.com/180x141.png/cc0000/ffffff",
+  },
+  {
+    "id": 8,
+    "title_name": "Payday",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/180x223.png/ff4444/ffffff",
+  },
+  {
+    "id": 9,
+    "title_name": "Glenn, the Flying Robot",
+    "Genres": "Sci-Fi",
+    "image": "http://dummyimage.com/126x127.png/ff4444/ffffff",
+  },
+  {
+    "id": 10,
+    "title_name": "Ruins, The",
+    "Genres": "Horror|Thriller",
+    "image": "http://dummyimage.com/221x237.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 11,
+    "title_name": "Jason Goes to Hell: The Final Friday",
+    "Genres": "Action|Horror",
+    "image": "http://dummyimage.com/214x175.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 12,
+    "title_name": "Block-Heads",
+    "Genres": "Comedy|War",
+    "image": "http://dummyimage.com/215x187.png/cc0000/ffffff",
+  },
+  {
+    "id": 13,
+    "title_name": "Getaway, The",
+    "Genres": "Action|Adventure|Crime|Drama|Romance|Thriller",
+    "image": "http://dummyimage.com/240x204.png/cc0000/ffffff",
+  },
+  {
+    "id": 14,
+    "title_name": "Invisible War, The",
+    "Genres": "Crime|Documentary|Drama|War",
+    "image": "http://dummyimage.com/133x242.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 15,
+    "title_name": "Why Do Fools Fall In Love?",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/172x230.png/dddddd/000000",
+  },
+  {
+    "id": 16,
+    "title_name": "Hey Ram",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/228x200.png/ff4444/ffffff",
+  },
+  {
+    "id": 17,
+    "title_name": "By the Law",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/139x188.png/ff4444/ffffff",
+  },
+  {
+    "id": 18,
+    "title_name": "Barefoot Executive, The",
+    "Genres": "Children|Comedy",
+    "image": "http://dummyimage.com/194x126.png/5fa2dd/ffffff",
+  },
+  {
+    "id": 19,
+    "title_name": "Firewalker",
+    "Genres": "Adventure",
+    "image": "http://dummyimage.com/185x229.png/cc0000/ffffff",
+  },
+  {
+    "id": 20,
+    "title_name": "Daens",
+    "Genres": "Drama",
+    "image": "http://dummyimage.com/218x126.png/ff4444/ffffff",
+  },
+];
